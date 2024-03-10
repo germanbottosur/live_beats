@@ -35,7 +35,7 @@ defmodule LiveBeats.MixProject do
       {:phoenix, "~> 1.7.1"},
       {:phoenix_live_view, "~> 0.18.17"},
       {:phoenix_live_dashboard, "~> 0.7.2"},
-      {:phoenix_ecto, "~> 4.4"},
+      {:phoenix_ecto, "~> 4.5"},
       {:ecto_sql, "~> 3.6"},
       {:ecto_network, "~> 1.3.0"},
       {:postgrex, ">= 0.0.0"},
